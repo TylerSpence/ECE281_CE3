@@ -1,12 +1,14 @@
 ----------------------------------------------------------------------------------
--- Company: USAFA/DFEC
--- Engineer: Silva
+-- Company: USAFA
+-- Engineer: Spence
 -- 
--- Create Date:    	10:33:47 07/07/2012 
--- Design Name:		CE3
--- Module Name:    	MooreElevatorController_Shell - Behavioral 
--- Description: 		Shell for completing CE3
---
+-- Create Date:    10:33:47 07/07/2012 
+-- Design Name:    filled in
+-- Module Name:    Moore shell
+-- Project Name:   Moore shell
+-- Target Devices: n/a
+-- Tool versions:  n/a
+-- Description:    n/a
 ----------------------------------------------------------------------------------
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
