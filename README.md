@@ -4,6 +4,9 @@ ECE281_CE3
 CE3-Elevator Control
 
 
+#Truth table
+This truth table was derived from the state diagram and was the basis for the logic for the elevator.
+![alt tag] (https://raw.github.com/TylerSpence/ECE281_CE3/master/truthtable.png)
 #Screenshot of Moore device
 ![alt tag] (https://raw.github.com/TylerSpence/ECE281_CE3/master/moorescreenshot.png)
 This data matches up correctly with the expected data as noted by the self checking testbench. 
