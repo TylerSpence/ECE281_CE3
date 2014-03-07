@@ -68,19 +68,25 @@ nextfloor <=
 #Mealy testbench code
 The code for the mealy testbench code is the same as the moore.
 #Answers to questions
+
 Question:Is reset synchronous or asynchronous.
+
 Answer: Synchronous.
 
 Question:If up_down is set to "go up" and stop is set to "don't stop" which floor do we want to go to?
+
 Answer:The floor above it, or if we are already on floor 4, we will stay there, unless the clock process continues to run for multiple cycles, then it will continue going up until we reach the top.
 
 Question:If up_down is set to "go down" and stop is set to "don't stop" which floor do we want to go to?
+
 Answer:The floor bellow it, or if we are already on floor 1, we will stay there, unless the clock process continues to run for multiple cycles, then it will continue going down until we reach the bottom.
 
 Question:Will the Mealy machine be different from the Moore machine?
+
 Answer: Yes, for reasons stated above related to clock and output.
 
 Question:What value would we set to simulate a 50MHz clock?
+
 Answer:20ns
 
 #Debugging
