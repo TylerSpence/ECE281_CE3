@@ -1,14 +1,14 @@
---------------------------------------------------------------------------------
--- Company: 
--- Engineer:
---
--- Create Date:   01:06:01 03/07/2014
--- Design Name:   
--- Module Name:   C:/Users/C16Tyler.Spence/Desktop/Semester 4 classes/ece 281/CE3/CE3_Spence/Moore_testbench_spence.vhd
--- Project Name:  CE3_Spence
--- Target Device:  
--- Tool versions:  
--- Description:   
+----------------------------------------------------------------------------------
+-- Company: USAFA
+-- Engineer: Spence
+-- 
+-- Create Date:    10:33:47 07/07/2012 
+-- Design Name:    testbench
+-- Module Name:    Mealy testbench
+-- Project Name:   mealy testbench
+-- Target Devices: n/a
+-- Tool versions:  n/a
+-- Description:    n/a
 -- 
 -- VHDL Test Bench Created by ISE for module: MooreElevatorController_Shell
 -- 
