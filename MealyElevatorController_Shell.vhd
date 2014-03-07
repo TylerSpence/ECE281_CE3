@@ -1,14 +1,14 @@
 ----------------------------------------------------------------------------------
--- Company: USAFA/DFEC
--- Engineer: Silva
+-- Company: USAFA
+-- Engineer: Spence
 -- 
 -- Create Date:    10:33:47 07/07/2012 
--- Design Name: 
--- Module Name:    MooreElevatorController_Silva - Behavioral 
--- Project Name: 
--- Target Devices: 
--- Tool versions: 
--- Description: 
+-- Design Name:    filled in
+-- Module Name:    Mealy shell
+-- Project Name:   mealy shell
+-- Target Devices: n/a
+-- Tool versions:  n/a
+-- Description:    n/a
 --
 -- Dependencies: 
 --
